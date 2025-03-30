@@ -32,7 +32,7 @@
     default_layer {
       bindings = <
         &mkp MB1 &mo 1
-        &mkp MB2 &mkp MB3
+        &mkp MB3 &mkp MB2
       >;
     };
 
